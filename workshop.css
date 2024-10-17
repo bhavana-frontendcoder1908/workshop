@@ -1,0 +1,91 @@
+*{
+    margin: 0%;
+}
+
+.n1,.n2{
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+    margin: 2%;
+    position: fixed;
+}
+.n1{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: xx-large;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: x-large;
+   font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.n{
+    background-image: url(img1.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec1{
+    background-color: rgb(245, 240, 240,0.7);
+    display: flex;
+   padding-top: 5%;
+   padding-bottom: 5%;
+   margin: 10%;
+   width: 70%;
+   border-radius: 5px;  
+   justify-content: center;
+   align-items: center;
+   align-content: center;
+   gap: 5px;
+}
+.s2{
+    background-image: url(img3.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec2{
+    background-color: rgb(245, 240, 240,0.7);
+    display: flex;
+   padding-top: 5%;
+   padding-bottom: 5%;
+ 
+   width: 70%;
+   border-radius: 5px;  
+   justify-content: center;
+   align-items: center;
+   align-content: center;
+   gap: 5px;
+}
+.s3{
+    background-image: url(img4.png);
+    height: 100vh;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.sec3{
+    background-color: rgb(245, 240, 240,0.7);
+    display: flex;
+   padding-top: 5%;
+   padding-bottom: 5%;
+ 
+   width: 70%;
+   border-radius: 5px;  
+   justify-content: center;
+   align-items: center;
+   align-content: center;
+   gap: 5px;
+}
+.sec1b,.sec2b,.sec3b{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
